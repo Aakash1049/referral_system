@@ -1,2 +1,2 @@
  [build] 
- command = "python manage.py collectstatic --noinput" publish = ""
+ command = "python manage.py collectstatic --noinput" publish = "ReferralSystem/staticfiles"
